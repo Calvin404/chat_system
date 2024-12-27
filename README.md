@@ -16,11 +16,11 @@ cd chat-system
 2. Create and activate a virtual environment:
 
 # Windows
--python -m venv venv
--venv\Scripts\activate
+python -m venv venv  
+venv\Scripts\activate
 
 # MacOS/Linux
--python -m venv venv
+-python -m venv venv  
 -source venv/bin/activate
 
 3. Install required packages:

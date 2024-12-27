@@ -10,7 +10,7 @@ A lightweight chat interface that interacts with OpenAI's GPT-3.5 model. Built w
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/Calvin404/chat_system
+git clone https://github.com/Calvin404/chat_system  
 cd chat-system
 
 2. Create and activate a virtual environment:
